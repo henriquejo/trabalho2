@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/trabalho2/static/media/facebook.ee12b845.png"
   },
   {
-    "revision": "fd0ebde6e34a6631c57d",
-    "url": "/trabalho2/static/css/main.807d244f.chunk.css"
+    "revision": "b5312495f0825f7d8816",
+    "url": "/trabalho2/static/css/main.25c16cef.chunk.css"
   },
   {
     "revision": "49c8eb7be7fd7e73b368",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/trabalho2/static/media/artigo3.df785af0.jpg"
   },
   {
-    "revision": "fd0ebde6e34a6631c57d",
-    "url": "/trabalho2/static/js/main.fd0ebde6.chunk.js"
+    "revision": "b5312495f0825f7d8816",
+    "url": "/trabalho2/static/js/main.b5312495.chunk.js"
   },
   {
     "revision": "f0258797369cd9bd6b94b1c016470f04",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/trabalho2/static/media/contato.f3e51c69.jpg"
   },
   {
-    "revision": "9adc3290e0344717fc602e7d0cd47b6e",
+    "revision": "34c5b42be35864ea24845e64a7d3d465",
     "url": "/trabalho2/index.html"
   }
 ];
